@@ -6,8 +6,6 @@ WEB_TEST_BASE_URL = "https://www.test.com"
 WEB_DEV_BASE_URL = "https://www.dev.com"
 WEB_UAT_BASE_URL = "https://www.uat.com"
 
-# test sp orverwiret
-WEB_SP_BASE_URL = "https://finmpgc-preuat.ey.com.cn/login/OALogin.jsp#/?_key=ook2gf"
 
 TIMES = 10
 POLL_FREQUENCY = 0.5
